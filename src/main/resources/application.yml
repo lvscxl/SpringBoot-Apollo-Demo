@@ -1,0 +1,12 @@
+server:
+  port: 8090
+
+spring:
+  application:
+    name: apollo-test
+
+
+
+#login:
+#  userName: ylw
+#  passWord: 123
